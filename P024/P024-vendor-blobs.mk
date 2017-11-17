@@ -22,6 +22,22 @@ PRODUCT_COPY_FILES += \
     vendor/asus/P024/proprietary/etc/firmware/venus_8916.b04:system/etc/firmware/venus_8916.b04 \
     vendor/asus/P024/proprietary/etc/firmware/venus_8916.mbn:system/etc/firmware/venus_8916.mbn \
     vendor/asus/P024/proprietary/etc/firmware/venus_8916.mdt:system/etc/firmware/venus_8916.mdt \
+    vendor/asus/P024/proprietary/etc/firmware/venus_8929.b00:system/etc/firmware/venus_8929.b00 \
+    vendor/asus/P024/proprietary/etc/firmware/venus_8929.b01:system/etc/firmware/venus_8929.b01 \
+    vendor/asus/P024/proprietary/etc/firmware/venus_8929.b02:system/etc/firmware/venus_8929.b02 \
+    vendor/asus/P024/proprietary/etc/firmware/venus_8929.b03:system/etc/firmware/venus_8929.b03 \
+    vendor/asus/P024/proprietary/etc/firmware/venus_8929.b04:system/etc/firmware/venus_8929.b04 \
+    vendor/asus/P024/proprietary/etc/firmware/venus_8929.mbn:system/etc/firmware/venus_8929.mbn \
+    vendor/asus/P024/proprietary/etc/firmware/venus_8929.mdt:system/etc/firmware/venus_8929.mdt \
+    vendor/asus/P024/proprietary/etc/firmware/wcnss_8929.b00:system/etc/firmware/wcnss_8929.b00 \
+    vendor/asus/P024/proprietary/etc/firmware/wcnss_8929.b01:system/etc/firmware/wcnss_8929.b01 \
+    vendor/asus/P024/proprietary/etc/firmware/wcnss_8929.b02:system/etc/firmware/wcnss_8929.b02 \
+    vendor/asus/P024/proprietary/etc/firmware/wcnss_8929.b04:system/etc/firmware/wcnss_8929.b04 \
+    vendor/asus/P024/proprietary/etc/firmware/wcnss_8929.b06:system/etc/firmware/wcnss_8929.b06 \
+    vendor/asus/P024/proprietary/etc/firmware/wcnss_8929.b09:system/etc/firmware/wcnss_8929.b09 \
+    vendor/asus/P024/proprietary/etc/firmware/wcnss_8929.b10:system/etc/firmware/wcnss_8929.b10 \
+    vendor/asus/P024/proprietary/etc/firmware/wcnss_8929.b11:system/etc/firmware/wcnss_8929.b11 \
+    vendor/asus/P024/proprietary/etc/firmware/wcnss_8929.mdt:system/etc/firmware/wcnss_8929.mdt \
     vendor/asus/P024/proprietary/bin/adsprpcd:system/bin/adsprpcd \
     vendor/asus/P024/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
     vendor/asus/P024/proprietary/vendor/lib/libfastcvopt.so:system/vendor/lib/libfastcvopt.so \
@@ -391,6 +407,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/P024/proprietary/vendor/lib/egl/libRBGLESv2_adreno.so:system/vendor/lib/egl/libRBGLESv2_adreno.so \
     vendor/asus/P024/proprietary/vendor/lib/libadreno_utils.so:system/vendor/lib/libadreno_utils.so \
     vendor/asus/P024/proprietary/vendor/lib/libc2d30-a3xx.so:system/vendor/lib/libc2d30-a3xx.so \
+    vendor/asus/P024/proprietary/vendor/lib/libc2d30-a4xx.so:system/vendor/lib/libc2d30-a4xx.so \
     vendor/asus/P024/proprietary/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
     vendor/asus/P024/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
     vendor/asus/P024/proprietary/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \
@@ -404,6 +421,8 @@ PRODUCT_COPY_FILES += \
     vendor/asus/P024/proprietary/vendor/lib/libscale.so:system/vendor/lib/libscale.so \
     vendor/asus/P024/proprietary/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
     vendor/asus/P024/proprietary/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
+    vendor/asus/P024/proprietary/etc/firmware/a420_pfp.fw:system/etc/firmware/a420_pfp.fw \
+    vendor/asus/P024/proprietary/etc/firmware/a420_pm4.fw:system/etc/firmware/a420_pm4.fw \
     vendor/asus/P024/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
     vendor/asus/P024/proprietary/vendor/lib/libHevcSwDecoder.so:system/vendor/lib/libHevcSwDecoder.so \
     vendor/asus/P024/proprietary/vendor/lib/libI420colorconvert.so:system/vendor/lib/libI420colorconvert.so \
