@@ -115,6 +115,9 @@ PRODUCT_COPY_FILES += \
     vendor/asus/P024/proprietary/vendor/lib/libactuator_rohm_bu64243gwz.so:system/vendor/lib/libactuator_rohm_bu64243gwz.so \
     vendor/asus/P024/proprietary/vendor/lib/libactuator_rohm_bu64243gwz_camcorder.so:system/vendor/lib/libactuator_rohm_bu64243gwz_camcorder.so \
     vendor/asus/P024/proprietary/vendor/lib/libactuator_rohm_bu64243gwz_camera.so:system/vendor/lib/libactuator_rohm_bu64243gwz_camera.so \
+    vendor/asus/P024/proprietary/vendor/lib/libactuator_s2034.so:system/vendor/lib/libactuator_s2034.so \
+    vendor/asus/P024/proprietary/vendor/lib/libactuator_s2034_camcorder.so:system/vendor/lib/libactuator_s2034_camcorder.so \
+    vendor/asus/P024/proprietary/vendor/lib/libactuator_s2034_camera.so:system/vendor/lib/libactuator_s2034_camera.so \
     vendor/asus/P024/proprietary/vendor/lib/libchromatix_S5K4E1_13P1BA_common.so:system/vendor/lib/libchromatix_S5K4E1_13P1BA_common.so \
     vendor/asus/P024/proprietary/vendor/lib/libchromatix_S5K4E1_13P1BA_default_video.so:system/vendor/lib/libchromatix_S5K4E1_13P1BA_default_video.so \
     vendor/asus/P024/proprietary/vendor/lib/libchromatix_S5K4E1_13P1BA_hfr_120fps.so:system/vendor/lib/libchromatix_S5K4E1_13P1BA_hfr_120fps.so \
@@ -239,6 +242,17 @@ PRODUCT_COPY_FILES += \
     vendor/asus/P024/proprietary/vendor/lib/libchromatix_ov8825_snapshot_hd.so:system/vendor/lib/libchromatix_ov8825_snapshot_hd.so \
     vendor/asus/P024/proprietary/vendor/lib/libchromatix_ov8825_video_hd.so:system/vendor/lib/libchromatix_ov8825_video_hd.so \
     vendor/asus/P024/proprietary/vendor/lib/libchromatix_ov8825_zsl.so:system/vendor/lib/libchromatix_ov8825_zsl.so \
+    vendor/asus/P024/proprietary/vendor/lib/libchromatix_ov8856_binning.so:system/vendor/lib/libchromatix_ov8856_binning.so \
+    vendor/asus/P024/proprietary/vendor/lib/libchromatix_ov8856_common.so:system/vendor/lib/libchromatix_ov8856_common.so \
+    vendor/asus/P024/proprietary/vendor/lib/libchromatix_ov8856_default_video.so:system/vendor/lib/libchromatix_ov8856_default_video.so \
+    vendor/asus/P024/proprietary/vendor/lib/libchromatix_ov8856_hfr_120fps.so:system/vendor/lib/libchromatix_ov8856_hfr_120fps.so \
+    vendor/asus/P024/proprietary/vendor/lib/libchromatix_ov8856_hfr_60fps.so:system/vendor/lib/libchromatix_ov8856_hfr_60fps.so \
+    vendor/asus/P024/proprietary/vendor/lib/libchromatix_ov8856_hfr_90fps.so:system/vendor/lib/libchromatix_ov8856_hfr_90fps.so \
+    vendor/asus/P024/proprietary/vendor/lib/libchromatix_ov8856_liveshot.so:system/vendor/lib/libchromatix_ov8856_liveshot.so \
+    vendor/asus/P024/proprietary/vendor/lib/libchromatix_ov8856_preview.so:system/vendor/lib/libchromatix_ov8856_preview.so \
+    vendor/asus/P024/proprietary/vendor/lib/libchromatix_ov8856_snapshot.so:system/vendor/lib/libchromatix_ov8856_snapshot.so \
+    vendor/asus/P024/proprietary/vendor/lib/libchromatix_ov8856_video_hd.so:system/vendor/lib/libchromatix_ov8856_video_hd.so \
+    vendor/asus/P024/proprietary/vendor/lib/libchromatix_ov8856_zsl.so:system/vendor/lib/libchromatix_ov8856_zsl.so \
     vendor/asus/P024/proprietary/vendor/lib/libchromatix_ov8858_common.so:system/vendor/lib/libchromatix_ov8858_common.so \
     vendor/asus/P024/proprietary/vendor/lib/libchromatix_ov8858_default_video.so:system/vendor/lib/libchromatix_ov8858_default_video.so \
     vendor/asus/P024/proprietary/vendor/lib/libchromatix_ov8858_hfr_120fps.so:system/vendor/lib/libchromatix_ov8858_hfr_120fps.so \
@@ -343,6 +357,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/P024/proprietary/vendor/lib/libmmcamera_ov5670_q5v41b.so:system/vendor/lib/libmmcamera_ov5670_q5v41b.so \
     vendor/asus/P024/proprietary/vendor/lib/libmmcamera_ov7695.so:system/vendor/lib/libmmcamera_ov7695.so \
     vendor/asus/P024/proprietary/vendor/lib/libmmcamera_ov8825.so:system/vendor/lib/libmmcamera_ov8825.so \
+    vendor/asus/P024/proprietary/vendor/lib/libmmcamera_ov8856.so:system/vendor/lib/libmmcamera_ov8856.so \
     vendor/asus/P024/proprietary/vendor/lib/libmmcamera_ov8858.so:system/vendor/lib/libmmcamera_ov8858.so \
     vendor/asus/P024/proprietary/vendor/lib/libmmcamera_ov8858_q8v19w.so:system/vendor/lib/libmmcamera_ov8858_q8v19w.so \
     vendor/asus/P024/proprietary/vendor/lib/libmmcamera_ov8865_q8v18a.so:system/vendor/lib/libmmcamera_ov8865_q8v18a.so \
